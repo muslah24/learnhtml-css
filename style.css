@@ -1,0 +1,23 @@
+.container{
+    background-color: navajowhite;
+    height: 500px;
+    text-align: center;
+
+}
+h4{
+    text-decoration: cyan;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: initial;
+    font-size: 20px;
+}
+#int{
+    font-size: 20px;
+    border: 2px double palevioletred;
+    border-radius: 3px;
+}
+#sbt{
+    font-size: 15px;
+    background-color: paleturquoise;
+    border: 3px solid blue;
+    border-radius: 5px;
+}
